@@ -1,5 +1,8 @@
 _repo: Sanomalehtimiehen-seikkailuja-Ranskalainen-kertomus_60784
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jacquin, J. (Joseph)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '51142'
     url: http://www.gutenberg.org/2009/agents/51142
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60784#Sanomalehtimiehen-seikkailuja-Ranskalainen-kertomus
 gutenberg_issued: '2019-11-26'
 gutenberg_type: Text
 identifiers:
